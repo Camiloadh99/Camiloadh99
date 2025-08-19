@@ -11,7 +11,7 @@
 {
 
 - 🎮 `My name is`: **Camilo Delgado**,
-- 🦾 `I'm`: **25 years old**,
+- 🦾 `I'm`: **26 years old**,
 - 📖 `I’m currently learning`: **Astro**,
 - 💻 `Favorite lang`: **TypeScript**
 
